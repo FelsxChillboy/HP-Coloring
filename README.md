@@ -12,10 +12,7 @@ Hi! I’m an active student at Universitas Nahdlatul Ulama Indonesia in Central 
 ---
 [![](https://visitcount.itsvg.in/api?id=FelsxChillboy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/FlesxChillboy) 
-
-  
+MY SOURCE CODE
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # cv2 = library OpenCV yang digunakan untuk membaca gambar, mengolah gambar, dan 
 # menjalankan model colorization.
